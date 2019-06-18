@@ -11,6 +11,6 @@ rate = rospy.Rate(10)
 
 
 while not rospy.is_shutdown():
-    user_choice = input('三つから選んでください　グー(0) チョキ(1) パー(3) :')
+    user_choice = input('三つから選んでください　グー(0) チョキ(1) パー(2) :')
     pub.publish(user_choice)
     rate.sleep()
