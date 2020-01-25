@@ -1,11 +1,11 @@
 # ROS_janken
 ROSを用いてcpとジャンケンを行い結果を表示するプログラムを作成した。
 
-#janken.py
-実行方法：$ rosrun mypkg janken.py
-実行すると
-"三つから選んでください　グー(0) チョキ(1) パー(2) :"
-と表示され、入力された数字がデータとしてjudg.pyに渡される。
+#janken.py  
+-実行方法：$ rosrun mypkg janken.py
+-実行すると
+-"三つから選んでください　グー(0) チョキ(1) パー(2) :"
+-と表示され、入力された数字がデータとしてjudg.pyに渡される。
 
 #judg.py
 実行方法：$ rosrun mypkg judg.py
