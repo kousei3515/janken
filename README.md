@@ -1,8 +1,7 @@
 # ROS_janken
 ROSを用いてジャンケンを行い結果を表示するプログラムを作成した。
 
-### janken.py
-___
+### janken.py___
 
 実行方法  
 ```$ rosrun mypkg janken.py```
