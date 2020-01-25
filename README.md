@@ -19,4 +19,5 @@ ROSを用いてジャンケンを行い結果を表示するプログラムを�
 ## License  
 BSD
 
-デモ動画：https://youtu.be/MVQThIj1QJs
+## デモ動画  
+https://youtu.be/MVQThIj1QJs
